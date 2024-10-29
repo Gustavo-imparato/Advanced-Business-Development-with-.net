@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\bin\Debug\net8.0\console.exe
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\bin\Debug\net8.0\console.deps.json
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\bin\Debug\net8.0\console.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\bin\Debug\net8.0\console.dll
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\bin\Debug\net8.0\console.pdb
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\obj\Debug\net8.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\obj\Debug\net8.0\console.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\obj\Debug\net8.0\console.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\obj\Debug\net8.0\console.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\obj\Debug\net8.0\console.sourcelink.json
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\obj\Debug\net8.0\console.dll
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\obj\Debug\net8.0\refint\console.dll
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\obj\Debug\net8.0\console.pdb
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\obj\Debug\net8.0\console.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Fiap\4 semestre\.Net\checkpoint6\legacy-system\console\obj\Debug\net8.0\ref\console.dll
